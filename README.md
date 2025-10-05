@@ -1,6 +1,6 @@
 <div align="center">
   
-# Olá, eu sou o Arthur Siqueira! 👋
+# Olá, eu sou Arthur Siqueira! 👋
 ### Desenvolvedor de Software Full Stack
 
 </div>
