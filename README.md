@@ -12,13 +12,12 @@
 
 ---
 
-### 💻 Tecnologias e Ferramentas
+### 🌃 Minhas Contribuições
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,django,javascript,html,css,docker" />
-  </a>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Minhas Contribuições 3D - Night Rainbow">
 </p>
+
 
 ---
 
@@ -35,8 +34,10 @@
 
 ---
 
-### 🌃 Minhas Contribuições
+### 💻 Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Minhas Contribuições 3D - Night Rainbow">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,django,javascript,html,css,docker" />
+  </a>
 </p>
