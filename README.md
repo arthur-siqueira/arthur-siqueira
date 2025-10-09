@@ -1,7 +1,7 @@
 <div align="center">
   
 # Olá, eu sou Arthur Siqueira! 👋
-### Desenvolvedor de Software Full Stack
+### Desenvolvedor de Software
 
 </div>
 
