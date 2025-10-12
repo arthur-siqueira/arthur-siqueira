@@ -21,7 +21,7 @@
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### 📊 Minhas Estatísticas
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -38,6 +38,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,django,javascript,html,css,docker" />
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,docker,jupyternotebook" />
   </a>
 </p>
