@@ -38,6 +38,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,docker,jupyternotebook" />
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,docker" />
   </a>
 </p>
