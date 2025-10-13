@@ -21,7 +21,7 @@
 
 ---
 
-### 📊 Minhas Estatísticas
+### 📊 Estatísticas
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
