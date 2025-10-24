@@ -12,15 +12,6 @@
 
 ---
 
-### 🌃 Minhas Contribuições
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Minhas Contribuições 3D - Night Rainbow">
-</p>
-
-
----
-
 ### 📊 Estatísticas
 
 <div align="center">
