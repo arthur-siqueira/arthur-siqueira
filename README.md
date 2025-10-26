@@ -1,7 +1,6 @@
 <div align="center">
   
 # Olá, eu sou Arthur Siqueira! 👋
-### Software Developer
 
 </div>
 
