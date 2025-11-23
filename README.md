@@ -1,6 +1,6 @@
 <div align="center">
   
-# Olá, eu sou Arthur Siqueira! 👋
+# Olá, eu sou Arthur Siqueira! 
 
 </div>
 
