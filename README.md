@@ -9,22 +9,7 @@
   <a href="https://www.linkedin.com/in/arthurhenriquesiqueira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
----
-
-### 📊 Estatísticas
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=arthur-siqueira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-siqueira&layout=compact&theme=tokyonight&langs_count=8" />
-  </a>
-</div>
-
----
-
-### 💻 Tecnologias e Ferramentas
+### 💻 Tecnologias
 
 <p align="center">
   <a href="https://skillicons.dev">
